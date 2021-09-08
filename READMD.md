@@ -1,4 +1,4 @@
-The excel spreadsheet contains a list of useful commands and tools for Windows/ Linux VA and pentesting covering:
+The excel spreadsheet contains a list of useful commands and tools for Windows/ Linux pentesting covering:
 ```
 - Vulnerability scanning
 - Network Recon
